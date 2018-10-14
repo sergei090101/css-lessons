@@ -302,7 +302,7 @@ Linotype", Baskerville, serif; — в начале стиля элемента p
 
 На рисунке ниже представлен окончательный вид страницы.
 
-![result](https://github.com/julia9961/css-lessons/02/result.png)
+![Image](https://github.com/julia9961/css-lessons/blob/master/02/result.png)
 
 Для практики попробуйте внести в файл styles.css какие-либо изменения. Поэкспериментируйте
 с различными значениями свойств. Можно, например,
