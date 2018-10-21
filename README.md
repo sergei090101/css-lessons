@@ -7,13 +7,3 @@
 
 Книги из серии «Бестселлеры O`Reilly»:
 https://www.labirint.ru/series/11062/
-
-**CSS**: 
-- [Большая книга CSS. *Дэвид Сойер Макфарланд*](https://www.ozon.ru/context/detail/id/135731189/)
-
-- [CSS. Каскадные таблицы стилей. Подробное руководство. *Эрик А. Мейер*](https://www.ozon.ru/context/detail/id/3881079/)
-
-**JavaScript**: 
-- [JavaScript. Подробное руководство. *Дэвид Флэнаган*](https://www.ozon.ru/context/detail/id/3881091/)
-
-Для связи со мной: @juliav
