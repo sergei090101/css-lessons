@@ -251,7 +251,6 @@ CSS представлено свойство border-radius, позволяющ�
         border: 3px solid rgb(75,75,75);
         box-shadow: 0 0 15px 5px rgba(44,82,100,.75);
         max-width: 760px;
-        248 Часть II. Применение CSS
         margin-top: 20px;
         margin-left: auto;
         margin-right: auto;
