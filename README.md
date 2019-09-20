@@ -5,6 +5,7 @@
 * Дополнительное расширение для VS Code: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * Включить автоматическое сохранение изменений в VS Code: `File > Auto Save`.
 * [Hot keys](https://code.visualstudio.com/docs/getstarted/keybindings)
+(например, Ctrl+J открыть/закрыть терминал, форматирование кода В Windows Shift + Alt + F)
 
 **Книги из серии «Бестселлеры O`Reilly»:**
 https://www.labirint.ru/series/11062/
